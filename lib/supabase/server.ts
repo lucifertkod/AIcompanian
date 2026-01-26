@@ -15,7 +15,6 @@ export async function createClient() {
                 setAll(cookiesToSet) {
                     try {
                         cookiesToSet.forEach(({ name, value, options }) =>
-                            // @ts-expect-error - The cookieStore type might not perfectly match between versions, but this pattern is standard
                             cookieStore.set(name, value, options)
                         )
                     } catch {
