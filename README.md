@@ -2,7 +2,7 @@
 
 > **"Bhai, maine AI Girlfriend App bana di... ab koi lonely nahi rahega!"** 😅💀
 >
-> — SuperShary, probably at 3 AM after too much caffeine
+> — Abhinav, probably at 3 AM after too much caffeine
 
 ---
 
@@ -76,7 +76,7 @@ Plus emoji usage and response length controls!
 
 ```bash
 # Clone the repo
-git clone https://github.com/SuperShary/lonlybot.git
+git clone https://github.com/lucifertkod/AIcompanian.git
 
 # Enter the den of loneliness
 cd lonlybot
@@ -102,12 +102,6 @@ npm run dev
 That's it. You're now in a relationship. Congrats. 🎉
 
 ---
-
-## 🎬 WATCH THE BUILD VIDEO
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-SuperShary-FF0000?style=for-the-badge&logo=youtube)](http://www.youtube.com/@SuperSharyG63)
 
 **"Make your own AI sexting app using Anti-Gravity"**
 
@@ -198,8 +192,7 @@ MIT License. Do whatever you want. Just don't blame me when you fall in love wit
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-SuperShary-FF0000?style=for-the-badge&logo=youtube)](http://www.youtube.com/@SuperSharyG63)
-[![GitHub](https://img.shields.io/badge/GitHub-SuperShary-181717?style=for-the-badge&logo=github)](https://github.com/supershary)
+[![GitHub](https://img.shields.io/badge/GitHub-SuperShary-181717?style=for-the-badge&logo=github)](https://github.com/lucifertkod)
 
 **If this made you laugh, drop a ⭐ on the repo.**
 
@@ -211,7 +204,7 @@ MIT License. Do whatever you want. Just don't blame me when you fall in love wit
 
 <div align="center">
 
-### Made with 💔 by SuperShary
+### Made with ♥️ by LUCIFERTKOD 
 
 *"Main loneliness solve karne aaya tha, khud lonely ho gaya"*
 
